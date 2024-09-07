@@ -12,4 +12,5 @@ Before you run the Real-time Spell Checker, make sure you have the following ins
 - pyspellchecker library
   
 You can install pyspellchecker using pip:
- pip install pyspellchecker
+
+pip install pyspellchecker
