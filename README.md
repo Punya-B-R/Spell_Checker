@@ -10,5 +10,6 @@ Before you run the Real-time Spell Checker, make sure you have the following ins
 - Python (3.6 or newer)
 - Tkinter (usually comes with Python)
 - pyspellchecker library
+  
 You can install pyspellchecker using pip:
 pip install pyspellchecker
