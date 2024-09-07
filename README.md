@@ -14,3 +14,5 @@ Before you run the Real-time Spell Checker, make sure you have the following ins
 You can install pyspellchecker using pip:
 
 pip install pyspellchecker
+# Project demo
+![Alt text](https://github.com/Punya-B-R/Spell_Checker/blob/main/Demonstration.png?raw=true)
