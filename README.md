@@ -15,6 +15,6 @@ You can install pyspellchecker using pip:
 
 ```sh
 pip install pyspellchecker
-
+```
 # Project demo
 ![Alt text](https://github.com/Punya-B-R/Spell_Checker/blob/main/Demonstration.png?raw=true)
